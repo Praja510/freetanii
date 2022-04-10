@@ -1,6 +1,6 @@
 # freetanii
 
-A new Flutter project.
+Project from freetani team for complete the ujikom from our school.
 
 ## Getting Started
 
